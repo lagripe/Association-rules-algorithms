@@ -1,0 +1,6 @@
+c:\users\dznit0\documents\visual studio 2015\Projects\Apriori\Apriori\bin\Debug\Apriori.exe.config
+c:\users\dznit0\documents\visual studio 2015\Projects\Apriori\Apriori\bin\Debug\Apriori.exe
+c:\users\dznit0\documents\visual studio 2015\Projects\Apriori\Apriori\bin\Debug\Apriori.pdb
+c:\users\dznit0\documents\visual studio 2015\Projects\Apriori\Apriori\obj\Debug\Apriori.csprojResolveAssemblyReference.cache
+c:\users\dznit0\documents\visual studio 2015\Projects\Apriori\Apriori\obj\Debug\Apriori.exe
+c:\users\dznit0\documents\visual studio 2015\Projects\Apriori\Apriori\obj\Debug\Apriori.pdb
