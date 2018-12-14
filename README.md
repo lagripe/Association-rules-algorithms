@@ -1,1 +1,2 @@
-# Association-rules-algorithms
+# Usage :
+Apriori TEST_FILE_PATH.txt
